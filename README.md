@@ -1,5 +1,5 @@
 # skforecast-TimeSeriesForecasting
-![Time Series Analysis](home/abhiram/Desktop/Abhiram/MyGit/skforecast-TimeSeriesForecasting/images/time.jpg)
+![Time Series Analysis](images/time.jpg)
 
 This guide explores the use of scikit-learn regression models for time series forecasting. Specifically, it introduces skforecast, an intuitive library equipped with essential classes and functions to customize any Scikit-learn regression model to effectively address forecasting challenges.
 
